@@ -1,5 +1,5 @@
 # prolog-exercises
-Some exercises in logic programming and constraint logic programming writen in ECLiPSe Prolog. The exercises are divided in two packages. The first one (see Lp20_A.pdf)  is writen in vanilah prolog, while the second one (see Lp20_B.pdf) uses the _constraint_ logic programming extention of ECLiPSe Prolog. 
+Some exercises in logic programming and constraint logic programming writen in [ECLiPSe Prolog](http://eclipseclp.org/). The exercises are divided in two packages. The first one (see Lp20_A.pdf)  is writen in vanilah prolog, while the second one (see Lp20_B.pdf) uses the _constraint_ logic programming extention of ECLiPSe Prolog. 
 
 ## Contents
 A detailed description of the first two exercises is included in the file **Lp20_A.pdf** (in Greek):

@@ -17,6 +17,6 @@ A detailed description of the first two exercises is included in the file **Lp20
 
 The description of the rest three exercises is included in the file **Lp20_B.pdf** (in Greek):
 
-1. **vertexcover.pl**: A programme finding a vertex cover in a random undirected graph, using constraints. This programme uses **graph.pl** to generate random graphs. 
-2. **stable.pl**: A programme finding a stable match, using the fd constraint library of ECLiPSe. Some example data are given in **stablefd_data.pl**.
+1. **vertexcover.pl**: A programme finding a [vertex cover](https://en.wikipedia.org/wiki/Vertex_cover) in a random undirected graph, using constraints. This programme uses **graph.pl** to generate random graphs. 
+2. **stable.pl**: A programme finding a [stable match](https://en.wikipedia.org/wiki/Stable_marriage_problem), using the fd constraint library of ECLiPSe. Some example data are given in **stablefd_data.pl**.
 3. **jobshop_opt.pl**: A programme solving the optimization variant of the second version of the homonymous task scheduling problem above. Some example data are given in **jobshop_opt_data.pl**.
